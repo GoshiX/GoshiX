@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @GoshiX
 - 👀 I’m interested in coding on Golang
 - 🧠 Also know Python/C++
-- 🌱 I’m currently learning JS
